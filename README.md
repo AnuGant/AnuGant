@@ -6,14 +6,16 @@ I use AI as a working partner in delivery, not just as a code generator — and 
 
 ---
 
-### 🚀 Featured: Task Tracker — End-to-End SDLC Learning Project
+### 🧭 What I'm building, one deliberately small project at a time
 
-A small app, built deliberately simple, to hand-build (with AI as an instructor, not an autopilot) the full delivery lifecycle: **Code → Local → Git → GitHub → AWS → CI/CD → Automatic Deployment.**
+I learn a layer of the stack by hand-building something real in it — with AI as an instructor, not an autopilot — and writing down where the line between "AI did this" and "I did this" actually sat. This is that track record, in order.
 
-- 🔗 **[View the project](https://github.com/AnuGant/task-tracker)**
-- 📄 **[How AI was actually used in it](https://github.com/AnuGant/task-tracker/blob/main/docs/AI-ASSISTED-DEVELOPMENT.md)** — the model/agent used, what was delegated to AI vs. kept strictly human, and why that line was drawn where it was.
+**✅ 01 — CI/CD & the full SDLC** · [Task Tracker](https://github.com/AnuGant/task-tracker)
+Code → Local → Git → GitHub → AWS → CI/CD → Automatic Deployment, end to end. Real infrastructure (AWS), a real pipeline (GitHub Actions), a real security incident handled correctly (a credential briefly exposed, revoked and rotated immediately), and a same-day pivot when the original AWS deployment path was discontinued mid-project.
+📄 [How AI was actually used in it](https://github.com/AnuGant/task-tracker/blob/main/docs/AI-ASSISTED-DEVELOPMENT.md) — the model/agent, what was delegated vs. kept strictly human, and why the line sat where it did.
 
-What it involved: real infrastructure (AWS), a real CI/CD pipeline (GitHub Actions), a real security incident handled correctly (a credential briefly exposed, revoked and rotated immediately), and a same-day pivot when the original AWS deployment path was discontinued mid-project.
+**🔜 02 — AI-assisted engineering** · *up next*
+Going deeper on agentic workflows and where AI actually earns a seat in the delivery process versus where it doesn't.
 
 ---
 
